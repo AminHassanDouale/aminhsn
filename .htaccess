@@ -1,0 +1,10 @@
+# Ensure the directory can be indexed and served
+Options +Indexes +FollowSymLinks
+
+# Serve index.html by default
+DirectoryIndex index.html
+
+# Allow access to all files and directories
+<FilesMatch ".*">
+    Require all granted
+</FilesMatch>
