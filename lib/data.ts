@@ -35,11 +35,11 @@ export const links = [
     hash: "#home",
   },
   {
-    name: "a propos",
+    name: "À propos", // Changed from "a propos"
     hash: "#about",
   },
   {
-    name: "Projets",
+    name: "Projects",
     hash: "#projects",
   },
   {
