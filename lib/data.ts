@@ -35,12 +35,16 @@ export const links = [
     hash: "#home",
   },
   {
-    name: "À propos", // Changed from "a propos"
+    name: "À propos",
     hash: "#about",
   },
   {
     name: "Projects",
     hash: "#projects",
+  },
+  {
+    name: "Competences",
+    hash: "#compentces",
   },
   {
     name: "Blog",
@@ -152,3 +156,4 @@ export const workData = [
     date: "2019",
   },
 ] as const;
+
