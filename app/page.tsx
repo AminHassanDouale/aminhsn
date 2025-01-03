@@ -5,7 +5,6 @@ import Intro from "@/components/intro";
 import Projects from "@/components/projects";
 import Skills from "@/components/skills";
 import SectionDivider from "@/components/section-divider";
-import SubmitBtn from "@/components/submit-btn";
 
 export default function Home() {
   return (
