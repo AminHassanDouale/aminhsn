@@ -44,7 +44,7 @@ export const links = [
   },
   {
     name: "Competences",
-    hash: "#compentces",
+    hash: "#competences",  // Fixed the typo in the hash
   },
   {
     name: "Blog",
